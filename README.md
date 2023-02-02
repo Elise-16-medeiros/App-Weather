@@ -1,2 +1,4 @@
 # App Weather
- Aplicativo de clima tempo
+ - Aplicativo sobre previsão de tempo
+ - Aplicação rodando em: https://aplicativoclimatempo.netlify.app
+ 
